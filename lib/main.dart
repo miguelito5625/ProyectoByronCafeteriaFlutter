@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.indigo,
-        // primaryTextTheme: Typography(platform: TargetPlatform.android).white,
+        // primaryTextTheme: Typography(platform: TargetPlatform.android).white, 
         // textTheme: Typography(platform: TargetPlatform.android).white,
       ),
       home: MyHomePage(title: 'Cafetería'),
